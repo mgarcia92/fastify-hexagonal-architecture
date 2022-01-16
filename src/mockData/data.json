@@ -1,0 +1,26 @@
+[
+    {
+        "id": "87508320-c56b-48bb-9ea3-4f58b819768f",
+        "firstName": "Jhon",
+        "lastName": "Wick",
+        "email":"jhon_wick@gmail.com",
+        "createdAt": "2022-01-16T18:42:50.035Z",
+        "updatedAt": "2022-01-16T18:43:13.221Z"
+    },    
+    {
+        "id": "78a8f035-9dcf-4017-a4b6-3c753493ad51",
+        "firstName": "Daniel",
+        "lastName": "Wall",
+        "email":"daniel55@gmail.com",
+        "createdAt": "2022-02-16T18:42:50.035Z",
+        "updatedAt": "2022-02-16T18:43:13.221Z"
+    },  
+    {
+        "id": "974ee52e-3ca1-4eca-a9ac-55dd2a509064",
+        "firstName": "Maria",
+        "lastName": "Gomez",
+        "email":"mariagomez59@hotmail.com",
+        "createdAt": "2021-01-16T18:42:50.035Z",
+        "updatedAt": "2021-01-16T18:43:13.221Z"
+    }
+]
