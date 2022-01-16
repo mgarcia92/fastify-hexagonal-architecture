@@ -3,12 +3,12 @@
 This is a small example the hexagonal architecture with fastify and Typescript
 
 
-## depencies
+## Install Dependencies
 ```bash
     npm install
 ```
 
-## Run
+## Run Project
 ```bash
     npm run dev
 ```
